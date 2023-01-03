@@ -4,30 +4,31 @@
 # generative 3D
 ## Text-to-3d 
 1. Magic3D (Nvidia) \
-project page : https://nv-tlabs.github.io/publication/2022_arxiv_magic3d/ \
-unofficial inplementation : https://github.com/lucidrains/magic3d-pytorch
+Project page : https://nv-tlabs.github.io/publication/2022_arxiv_magic3d/ \
+Unofficial inplementation : https://github.com/lucidrains/magic3d-pytorch
 
 ## Image to 3d 
 
 1. Rodin (Microsoft) \
-project page : https://3d-avatar-diffusion.microsoft.com/ 
+Project page : https://3d-avatar-diffusion.microsoft.com/ 
 
 2. Nerfoic (SnapInc, University of Southern California) \
-project page : https://formyfamily.github.io/NeROIC/ \
-official implementation : https://github.com/snap-research/NeROIC 
+Project page : https://formyfamily.github.io/NeROIC/ \
+Official implementation : https://github.com/snap-research/NeROIC 
 
 3. Icon (Max Planck Institute for Intelligent Systems, University of Amsterdam) \
-description : learn 3D clothed avatars from 2D images of people in unconstrained poses \
-project page : https://icon.is.tue.mpg.de/ \
-official implementation : https://github.com/YuliangXiu/ICON
+Description : learn 3D clothed avatars from 2D images of people in unconstrained poses \
+Project page : https://icon.is.tue.mpg.de/ \
+Official implementation : https://github.com/YuliangXiu/ICON \
+Hugging face space : https://huggingface.co/spaces/Yuliang/ICON 
 
 ## Autorigging 
 1. Mixamo \
-web page : https://www.mixamo.com/#/
+Web page : https://www.mixamo.com/#/
 
 ## Video to 3d
 1. Rana (Nvidia) \
-project page : https://nvlabs.github.io/RANA/
+Project page : https://nvlabs.github.io/RANA/
 
 # Nerf
 
@@ -35,4 +36,4 @@ project page : https://nvlabs.github.io/RANA/
 
 ## Stylised Nerf
 1. PaletteNerf \
-projet page : https://palettenerf.github.io/
+Projet page : https://palettenerf.github.io/
