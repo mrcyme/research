@@ -15,6 +15,10 @@ project page : https://3d-avatar-diffusion.microsoft.com/
 project page : https://formyfamily.github.io/NeROIC/
 official implementation : https://github.com/snap-research/NeROIC
 
+## Autorigging 
+1. Mixamo
+web page : https://www.mixamo.com/#/
+
 ## Video to 3d
 1. Rana (Nvidia)
 project page : https://nvlabs.github.io/RANA/
