@@ -1,9 +1,9 @@
 # Generative 2D
-1. Stable diffusion (StabilityAI)
+1. Stable diffusion (StabilityAI)\
 
 # generative 3D
 ## Text-to-3d 
-1. Magic3D (Nvidia) \\
+1. Magic3D (Nvidia) \
 project page : 
 unofficial inplementation : https://github.com/lucidrains/magic3d-pytorch
 
