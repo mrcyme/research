@@ -1,5 +1,6 @@
 # Generative 2D
-1. Stable diffusion (StabilityAI)
+1. Stable diffusion (StabilityAI) \
+Huggingface : https://huggingface.co/stabilityai/stable-diffusion-2-1
 
 # generative 3D
 ## Text-to-3d 
