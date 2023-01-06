@@ -8,6 +8,12 @@ Huggingface : https://huggingface.co/stabilityai/stable-diffusion-2-1
 Project page : https://nv-tlabs.github.io/publication/2022_arxiv_magic3d/ \
 Unofficial inplementation : https://github.com/lucidrains/magic3d-pytorch
 
+## Image/video to 3D avatar
+1. Realistic one-shot mesh-based head avatars (Samsung)
+Description : creation of realistic one-shot mesh-based (ROME) human head avatars. From a single photograph
+Project page : https://samsunglabs.github.io/rome/ \
+Official implementation : https://github.com/SamsungLabs/rome
+
 ## Image to 3d 
 
 1. Rodin (Microsoft) \
