@@ -44,3 +44,14 @@ Project page : https://nvlabs.github.io/RANA/
 ## Stylised Nerf
 1. PaletteNerf \
 Projet page : https://palettenerf.github.io/
+
+## Vector graphic generation
+1. VectorFusion (UC Berkeley)
+project page : https://ajayj.com/vectorfusion/
+
+2. LIVE: Towards Layer-wise Image Vectorization
+project page : https://ma-xu.github.io/LIVE/
+code : https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization
+
+4. 
+
