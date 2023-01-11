@@ -6,12 +6,14 @@ Huggingface : https://huggingface.co/stabilityai/stable-diffusion-2-1
 ## Text-to-3d 
 1. Magic3D (Nvidia) \
 Project page : https://nv-tlabs.github.io/publication/2022_arxiv_magic3d/ \
-Unofficial inplementation : https://github.com/lucidrains/magic3d-pytorch
-2. Avatarclip
-Project page :https://hongfz16.github.io/projects/AvatarCLIP.html
+Unofficial inplementation : https://github.com/lucidrains/magic3d-pytorch \
+
+2. Avatarclip \
+Project page :https://hongfz16.github.io/projects/AvatarCLIP.html \
 Official implementation : https://github.com/hongfz16/AvatarCLIP
+
 3. ClipForge
-Official implementation : https://github.com/AutodeskAILab/Clip-Forge
+Official implementation : https://github.com/AutodeskAILab/Clip-Forge\
 
 
 ## Image/video to 3D avatar
@@ -37,8 +39,8 @@ Hugging face space : https://huggingface.co/spaces/Yuliang/ICON
 
 # Texture
 ## Text to texture
-1. Text2Mesh
-project page : https://threedle.github.io/text2mesh/
+1. Text2Mesh \
+project page : https://threedle.github.io/text2mesh/ \
 code : https://github.com/threedle/text2mesh
 
 ## Autorigging 
@@ -58,27 +60,27 @@ Project page : https://nvlabs.github.io/RANA/
 Projet page : https://palettenerf.github.io/
 
 ## Painting and collages : 
-1. CLIP-CLOP
+1. CLIP-CLOP \
 code : https://github.com/deepmind/arnheim
 
 ## Painting robots
-1. Frida
-project page : https://pschaldenbrand.github.io/frida/
+1. Frida \
+project page : https://pschaldenbrand.github.io/frida/ \
 code : https://github.com/pschaldenbrand/Frida
 
 ## Vector graphic generation
-1. VectorFusion (UC Berkeley)
+1. VectorFusion (UC Berkeley) \
 project page : https://ajayj.com/vectorfusion/
 
-2. LIVE: Towards Layer-wise Image Vectorization
-project page : https://ma-xu.github.io/LIVE/
+2. LIVE: Towards Layer-wise Image Vectorization \
+project page : https://ma-xu.github.io/LIVE/ \
 code : https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization
 
-3. Clipascene
+3. Clipascene \
 project page : https://clipascene.github.io/CLIPascene/
 
 5. Clipasso
-6. 
+
 
 
 # Interesting project / installations
