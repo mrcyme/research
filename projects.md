@@ -7,6 +7,9 @@ Huggingface : https://huggingface.co/stabilityai/stable-diffusion-2-1
 1. Magic3D (Nvidia) \
 Project page : https://nv-tlabs.github.io/publication/2022_arxiv_magic3d/ \
 Unofficial inplementation : https://github.com/lucidrains/magic3d-pytorch
+## AvatarClip
+Project page :https://hongfz16.github.io/projects/AvatarCLIP.html
+Official implementation : https://github.com/hongfz16/AvatarCLIP
 
 ## Image/video to 3D avatar
 1. Realistic one-shot mesh-based head avatars (Samsung)
