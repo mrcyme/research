@@ -55,3 +55,6 @@ code : https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization
 
 4. 
 
+
+# Interesting project / installations
+https://dl.acm.org/doi/10.1145/3533386
