@@ -53,7 +53,7 @@ Project page : https://nvlabs.github.io/RANA/
 
 # Nerf
 
-1. 
+1. https://github.com/NVlabs/nvdiffrec
 
 ## Stylised Nerf
 1. PaletteNerf \
