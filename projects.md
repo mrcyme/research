@@ -15,6 +15,9 @@ Official implementation : https://github.com/hongfz16/AvatarCLIP
 3. ClipForge
 Official implementation : https://github.com/AutodeskAILab/Clip-Forge\
 
+## Edit mesh with text
+1. TextToMesh
+Official implementation : https://github.com/threedle/text2mesh
 
 ## Image/video to 3D avatar
 1. Realistic one-shot mesh-based head avatars (Samsung)
