@@ -2,6 +2,9 @@
 1. Stable diffusion (StabilityAI) \
 Huggingface : https://huggingface.co/stabilityai/stable-diffusion-2-1
 
+2. ControlNet \
+https://github.com/lllyasviel/ControlNet
+
 # generative 3D
 ## Text-to-3d 
 1. Magic3D (Nvidia) \
