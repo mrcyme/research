@@ -92,7 +92,8 @@ project page : https://clipascene.github.io/CLIPascene/
 
 5. Clipasso
 
-
+## Music 
+https://github.com/lucidrains/musiclm-pytorch \
 
 # Interesting project / installations
 https://dl.acm.org/doi/10.1145/3533386
