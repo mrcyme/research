@@ -70,6 +70,11 @@ Project page : https://nvlabs.github.io/RANA/
 1. PaletteNerf \
 Projet page : https://palettenerf.github.io/
 
+## Edit Nerf with text
+1. TextToMesh \
+Project page : https://cassiepython.github.io/clipnerf/ \
+
+
 ## Painting and collages : 
 1. CLIP-CLOP \
 code : https://github.com/deepmind/arnheim
