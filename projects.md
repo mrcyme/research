@@ -26,8 +26,12 @@ unofficial implementation : https://github.com/ashawkey/stable-dreamfusion
 https://nv-tlabs.github.io/LION/ \
 
 ## Edit mesh with text
-1. TextToMesh
-Official implementation : https://github.com/threedle/text2mesh
+1. TextToMesh \
+Official implementation : https://github.com/threedle/text2mesh \
+
+2. TextDeformer \
+https://threedle.github.io/TextDeformer/
+
 
 ## Image/video to 3D avatar
 1. Realistic one-shot mesh-based head avatars (Samsung)
@@ -56,8 +60,6 @@ Hugging face space : https://huggingface.co/spaces/Yuliang/ICON
 project page : https://threedle.github.io/text2mesh/ \
 code : https://github.com/threedle/text2mesh
 
-2. TextDeformer \
-https://threedle.github.io/TextDeformer/
 
 ## Autorigging 
 1. Mixamo \
