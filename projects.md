@@ -77,6 +77,9 @@ Projet page : https://palettenerf.github.io/
 1. TextToMesh \
 Project page : https://cassiepython.github.io/clipnerf/ \
 
+2. TextDeformer \
+https://threedle.github.io/TextDeformer/
+
 2. Nerf art \
 https://cassiepython.github.io/nerfart/
 
