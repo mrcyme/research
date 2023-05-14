@@ -51,10 +51,13 @@ Official implementation : https://github.com/YuliangXiu/ICON \
 Hugging face space : https://huggingface.co/spaces/Yuliang/ICON 
 
 # Texture
-## Text to texture
+## Text to mesh
 1. Text2Mesh \
 project page : https://threedle.github.io/text2mesh/ \
 code : https://github.com/threedle/text2mesh
+
+2. TextDeformer \
+https://threedle.github.io/TextDeformer/
 
 ## Autorigging 
 1. Mixamo \
@@ -74,7 +77,7 @@ Project page : https://nvlabs.github.io/RANA/
 Projet page : https://palettenerf.github.io/
 
 ## Edit Nerf with text
-1. TextToMesh \
+1. Clipnerf \
 Project page : https://cassiepython.github.io/clipnerf/ \
 
 2. TextDeformer \
