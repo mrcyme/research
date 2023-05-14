@@ -22,6 +22,8 @@ Official implementation : https://github.com/AutodeskAILab/Clip-Forge\
 Project page : https://dreamfusion3d.github.io/ \
 unofficial implementation : https://github.com/ashawkey/stable-dreamfusion
 
+5. LION 
+https://nv-tlabs.github.io/LION/ \
 
 ## Edit mesh with text
 1. TextToMesh
