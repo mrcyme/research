@@ -65,8 +65,9 @@ Web page : https://www.mixamo.com/#/
 Project page : https://nvlabs.github.io/RANA/
 
 # Nerf
-
+## Nerf
 1. https://github.com/NVlabs/nvdiffrec
+
 
 ## Stylised Nerf
 1. PaletteNerf \
@@ -76,6 +77,8 @@ Projet page : https://palettenerf.github.io/
 1. TextToMesh \
 Project page : https://cassiepython.github.io/clipnerf/ \
 
+2. Nerf art \
+https://cassiepython.github.io/nerfart/
 
 ## Painting and collages : 
 1. CLIP-CLOP \
