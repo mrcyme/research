@@ -111,8 +111,15 @@ project page : https://clipascene.github.io/CLIPascene/
 5. Clipasso
 
 ## Music 
+1. MusicLM unofficial  \
 https://github.com/lucidrains/musiclm-pytorch \
+
+2. MusicGen (META) \
+   https://ai.honu.io/papers/musicgen/ \
 
 # Interesting project / installations
 https://dl.acm.org/doi/10.1145/3533386
 
+## LLM UX
+
+https://otter-ntu.github.io/
