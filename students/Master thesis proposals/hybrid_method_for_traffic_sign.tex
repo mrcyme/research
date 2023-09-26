@@ -1,0 +1,59 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+
+\title{Hybrid Method for Urban Object Detection, Positioning, and Classification Using Aerial Imagery and Brussels Mobility Datasets}
+\author{} % Add your name or leave it empty
+\date{} % This will remove the date
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+With the dawn of the smart city era, urban areas are increasingly integrating digital technology into their infrastructure, transport systems, and urban services. At the heart of this transformation lies the ability to glean insights from various datasets that depict the city's dynamic and static elements.
+
+For city administrators, urban planners, policymakers, and even citizens, the visualization of urban settings in three dimensions provides an immersive means of understanding the city's layout and making informed decisions. While approach using photorealistic 3D Tilesets can provide a 3D visualization of a city with the different Urban Object. The downside of those methods is that every object is fixed in the 3D scene. Conversely, Approach relying on the rendering of 3d objects from geographical dataset allow for more flexibility. Thus stressing the importance of such precise geographical dataset.
+
+\section{Problem Statement}
+
+The Brussels Mobility dataset, available via Mobigis, offers a comprehensive picture of various urban elements such as traffic lights, traffic signs, bus stops, trees, … While valuable, this dataset is not always precise, and does not provide the orientation of each object. The orientation of those object is required to render them in a 3D scene. To tackle that problem, we propose here to develop a hybrid method combining aerial imagery and Brussels Mobility dataset to compute the exact location and orientation of those urban objects.
+
+\section{Objectives}
+
+The core objective of this thesis is to develop a hybrid method that synergistically uses both the Brussels Mobility datasets and aerial/satellite imagery for:
+\begin{itemize}
+    \item Detecting urban objects (traffic lights, traffics signs, bus stops).
+    \item Accurately positioning these objects.
+    \item Accurately define the orientation of these objects.
+    \item Classifying them based on their type and characteristics.
+\end{itemize}
+
+\section{Methodology}
+
+\begin{enumerate}
+    \item \textbf{Data Acquisition \& Preprocessing:} Gather and clean both the Brussels Mobility dataset and relevant aerial/satellite imagery.
+    \item \textbf{Object Detection:} Implement machine learning models to detect urban objects from aerial imagery.
+    \item \textbf{Data Fusion \& Synchronization:} Develop algorithms to align and integrate object positions from both data sources.
+    \item \textbf{Classification:} Using the fused dataset, classify each bounding box to its relevant label.
+    \item \textbf{Object orientation:} Develop methods to orient each object (example a traffic light or traffic sign should be oriented perpendicular to the street).
+    \item \textbf{Validation \& Accuracy Assessment:} Using a subset of ground-truth data, validate the accuracy of detected and classified objects.
+\end{enumerate}
+
+\section{Expected Outcomes}
+
+\begin{itemize}
+    \item A comprehensive method that enhances the accuracy of urban object detection and classification by combining multiple data sources.
+    \item A dataset of oriented bounding box, labelled to the relevant object. This dataset will then be used to enrich a 3D visualisation of the city. 
+    \item (optional) A 3D visualization of a specific neighbour of Brussels, highlighting the detected objects, which can be integrated into VR environment for a CAVE systems.
+\end{itemize}
+
+\section{References}
+
+\begin{enumerate}
+    \item Data for Mobility in Brussels. Mobigis. \url{https://data.mobility.brussels/mobigis/}
+    \item Mentasti, Simone; Simsek, Yusuf; Matteucci, Matteo. "Traffic lights detection and tracking for HD map creation". \textit{Frontiers in Robotics and AI}, 10, 1065394. \href{https://doi.org/10.3389/frobt.2023.1065394}{https://doi.org/10.3389/frobt.2023.1065394}
+\end{enumerate}
+
+\end{document}
